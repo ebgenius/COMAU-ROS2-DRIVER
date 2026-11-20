@@ -306,7 +306,7 @@
         rpy="0 0 0" />
         <geometry>
         <mesh
-          filename="package://nj_165_30/meshes/link_5.STL" />
+          filename="package://nj-165-30_description/meshes/nj-165-30/link_5.STL" />
       </geometry>
       <material
         name="">
